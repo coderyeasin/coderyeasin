@@ -1,5 +1,5 @@
 
-### Code, Eat, Code, Sleep, Code, Repeat  👋
+### Salah, Code, Sleep = repeat()  👋
 
 
 <!--**coderyeasin/coderyeasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
